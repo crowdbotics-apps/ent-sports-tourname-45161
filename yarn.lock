@@ -1464,12 +1464,10 @@
   dependencies:
     react-native-actionsheet "^2.4.2"
 
-"@modules/camera@file:./modules/camera/":
-  version "1.0.1"
-  dependencies:
-    react-native-actionsheet "^2.4.2"
-
 "@modules/maps@file:./modules/maps":
+  version "1.0.0"
+
+"@modules/maps@file:./modules/maps/":
   version "1.0.0"
 
 "@modules/privacy-policy-webview@file:./modules/privacy-policy-webview":
