@@ -1464,11 +1464,6 @@
   dependencies:
     react-native-actionsheet "^2.4.2"
 
-"@modules/camera@file:./modules/camera/":
-  version "1.0.1"
-  dependencies:
-    react-native-actionsheet "^2.4.2"
-
 "@modules/privacy-policy-webview@file:./modules/privacy-policy-webview":
   version "1.0.0"
 
@@ -1483,6 +1478,9 @@
     react-native-get-random-values "^1.6.0"
     react-native-keyboard-aware-scroll-view "^0.9.3"
     uuid "^8.3.2"
+
+"@modules/terms-and-conditions-webview@file:./modules/terms-and-conditions-webview/":
+  version "1.0.0"
 
 "@nicolo-ribaudo/eslint-scope-5-internals@5.1.1-v1":
   version "5.1.1-v1"
