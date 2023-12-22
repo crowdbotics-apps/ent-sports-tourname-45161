@@ -1467,10 +1467,10 @@
 "@modules/maps@file:./modules/maps":
   version "1.0.0"
 
-"@modules/maps@file:./modules/maps/":
+"@modules/privacy-policy-webview@file:./modules/privacy-policy-webview":
   version "1.0.0"
 
-"@modules/privacy-policy-webview@file:./modules/privacy-policy-webview":
+"@modules/privacy-policy-webview@file:./modules/privacy-policy-webview/":
   version "1.0.0"
 
 "@modules/social-login@file:./modules/social-login":
