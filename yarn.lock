@@ -1467,9 +1467,6 @@
 "@modules/maps@file:./modules/maps":
   version "1.0.0"
 
-"@modules/maps@file:./modules/maps/":
-  version "1.0.0"
-
 "@modules/privacy-policy-webview@file:./modules/privacy-policy-webview":
   version "1.0.0"
 
@@ -1486,6 +1483,9 @@
     uuid "^8.3.2"
 
 "@modules/terms-and-conditions-webview@file:./modules/terms-and-conditions-webview":
+  version "1.0.0"
+
+"@modules/terms-and-conditions-webview@file:./modules/terms-and-conditions-webview/":
   version "1.0.0"
 
 "@modules/user-profile@file:./modules/user-profile":
